@@ -1,2 +1,5 @@
 The main lisp code is written in main.lisp.
 Modify it and enjoy Common Lisp life!
+
+The Clozure CL in ./ccl is obtained from a file as follows:
+ ftp://clozure.com/pub/release/1.7/ccl-1.7-linuxx86.tar.gz
