@@ -1,0 +1,1 @@
+(defun main ()  (format t "~A~%~%" "Content-Type: text/plain")  (format t "~A" "This is a sample project to use the Clozure CL on fluxflex!")  (quit))(main)
